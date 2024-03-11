@@ -106,9 +106,11 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-![Output](Op1-java1.jpeg)
+![Output](Op1-java1.jpg)
 
-![Output](Op2-java1.jpeg)
+![Output](Op2-java1.jpg)
+
+![Output](Op3-java1.jpg)
 
 ## RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
